@@ -6,8 +6,9 @@ Second-year B.Sc. student in Software Engineering at SCE.
 Software development
 
 ## What I'm learning now
-- Git
-- Python
+- Git branching and pull requests
+- Scrum / Agile practices
+- Team collaboration on shared code
 
 ## Projects
 Coming soon
